@@ -1,0 +1,23 @@
+body {
+    /* background-color: salmon; */
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .main {
+    
+    /* background-color: aqua; 
+} */
+
+.judul {
+    font-size: 50px;
+    margin-top: 58px;
+}
+
+.nav-breadcrumb {
+    margin-top: 8px;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
